@@ -1,0 +1,22 @@
+.elemento{
+    background-color: red;
+    color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.contenedor{
+    background-color: lightblue;
+    height: 100px;
+    display:flex;
+}
+
+h4{
+    color: black;
+    background-color: aquamarine;
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+}
